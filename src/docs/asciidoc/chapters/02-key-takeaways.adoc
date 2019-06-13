@@ -1,0 +1,40 @@
+== Key Takeaways
+
+Listening to different leaders from different industries and experiences, there are several shared themes and key learnings
+
+* <<empathy>>
+* <<biceps>>
+* <<psychological-safety>>
+* <<transparency>>
+* <<growth-dynamics>>
+* <<goals>>
+* <<storytelling>>
+
+[[empathy]]
+== Have empathy
+
+Empathy and humility make us great leaders.
+
+[.notes]
+--
+Understanding how other people feel is crucial to providing a safe and comfortable working environment.
+
+--
+
+[[biceps]]
+== Reports have needs
+
+[[psychological-safety]]
+== Psychological Safety
+
+[[transparency]]
+== Be Transparent
+
+[[growth-dynamics]]
+== Team dynamics change during growth
+
+[[goals]]
+== Have clear goals
+
+[[storytelling]]
+== Storytelling
