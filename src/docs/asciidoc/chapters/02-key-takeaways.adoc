@@ -18,17 +18,74 @@ Empathy and humility make us great leaders.
 [.notes]
 --
 Understanding how other people feel is crucial to providing a safe and comfortable working environment.
-
 --
 
 [[biceps]]
 == Reports have needs
 
+The amygdala in the brain can override rational thinking.
+
+We feel threatened when our core needs are at risk
+
+* Belonging
+* Improvement/Progress
+* Choice
+* Equality
+* Predictability
+* Significance
+
+https://www.palomamedina.com/biceps[More here]
+
+[.notes]
+--
+The amygdala activates when you feel threatened, it's the primal part of the brain that's saved us from extinction.
+
+Thinking of everyones BIPCEPS will help avoid awkward situations, and should help keep people in a safe state.
+
+* Belonging - Sense of community. Threatening this in trials shows that physical pain indicators fire in the brain. No invite to team lunch etc
+* Improvement/Progress - Sense of purpose, vision. Towards purpose or improving lives, learning etc.
+* Choice - flexibility, autonomy. It's a balance.
+* Equality - equal access for resources, time, compensation
+* Predictably - Direction of work, time, challenges
+* Significance - Do they have an effect? Can they move needles, are they visibility, do they get recognition
+
+Moving desk is an example of a disruption that can threaten all of the needs above.
+--
+
 [[psychological-safety]]
 == Psychological Safety
 
+* Regular actionable feedback, in a comfortable way for them
+* Open and honest environment
+
+[.notes]
+--
+A lot of speakers spoke about the importance of psychological safety.
+
+* Ask up front how they would like to receive feedback
+* They may require more confirmation than others in the team
+* Don't spend all your time on one or two reports, be even.
+
+--
+
 [[transparency]]
 == Be Transparent
+
+This affects your relationship with everyone not just your reports.
+
+* Product Management will learn to disbelieve estimates if constantly wrong - own up to failure
++
+"Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law."
+-- Douglas Hofstadter
+
+[.notes]
+--
+* Interesting talk by Jonathan Rigby on software estimation
+** why do we have it if it's so hard to get right?
+** If over promise when it's clear it's not possible you will lose team members
+** estimates will become over inflated
+
+--
 
 [[growth-dynamics]]
 == Team dynamics change during growth

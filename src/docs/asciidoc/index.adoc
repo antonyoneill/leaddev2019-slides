@@ -9,7 +9,11 @@ ifndef::sourcedir[:sourcedir: ../java]
 :toc: macro
 :toc-title:
 
-= Presentation Title
+= LeadDev 2019
 Antony O'Neill
 
-include::chapters/one.adoc[]
+An overview of the key themes
+
+include::chapters/01-what-is-leaddev.adoc[]
+
+include::chapters/02-key-takeaways.adoc[]

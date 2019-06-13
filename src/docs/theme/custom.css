@@ -56,6 +56,15 @@ section.title,
     text-align: left;
 }
 
+.reveal .quoteblock blockquote {
+    width: 90%;
+}
+
+.reveal .attribution {
+    text-align: right;
+    font-size: 0.8em;
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
