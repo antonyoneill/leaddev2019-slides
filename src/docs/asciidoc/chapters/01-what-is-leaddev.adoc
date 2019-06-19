@@ -1,6 +1,6 @@
 == What is Lead Dev?
 
-A conference hosted by WhiteOctoberEvents to bring together brilliant engineering leads and disseminate wisdom and knowledge.
+A conference hosted by WhiteOctober Events to bring together brilliant engineering leads and disseminate wisdom and knowledge.
 
 * 2 days
 * 27 lectures
