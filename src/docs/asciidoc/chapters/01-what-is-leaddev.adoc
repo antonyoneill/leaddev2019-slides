@@ -6,3 +6,4 @@ A conference hosted by WhiteOctober Events to bring together brilliant engineeri
 * 27 lectures
 * 1400 delegates
 * 41 pages of https://docs.google.com/document/d/1O0ajEeFDYbosQhNzCm2Kg6JINOHYwb-sOGo7yy_kNWA/edit?usp=sharing[raw notes]
+* https://www.youtube.com/playlist?list=PLBzScQzZ83I9uW36NnjX6Pe5P63EpEk_q[29 recorded talks]
